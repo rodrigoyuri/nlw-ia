@@ -5,7 +5,7 @@
 }
 
 #app > h1 {
-  color: #996DFF;
+  color: #996dff;
   margin-top: -5px;
 }
 
@@ -22,6 +22,6 @@
 }
 
 #app .placeholder {
-  color: #7C7C8A;
+  color: #7c7c8a;
   user-select: none;
 }
